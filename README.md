@@ -32,9 +32,16 @@
 - 💬 Fluent: English | Persian | Arabic  
 - 💰 Focused on tech & financial growth  
 
+## ✉️ Contact Me
+📧 alifarisat04@gmail.com  
 ---
 
 ## ✨ Quote
 > “Code smart, secure more, grow faster.”
 
 ![Footer GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+## ⚡ Fun GIFs
+![Networking GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Python GIF](https://media.giphy.com/media/26xBwdIuRJiAi1krs/giphy.gif)  
+![AI GIF](https://media.giphy.com/media/3o7TKrZKKjrf4qvB8k/giphy.gif)
