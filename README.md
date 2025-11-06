@@ -3,19 +3,17 @@
 </p>
 
 # 👋 Hi, I'm **Ali Farisat**
-
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150" />
-</p>
 **Computer Engineering Student | Network & Security | Python & Machine Learning**
-
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="350" />
+</p>
 ---
 
 ## 💡 About Me
 - 🎓 3rd-year Computer Engineering student  
 - 🌐 Networking: **Cisco & MikroTik**  
 - 🤖 Machine Learning: just started exploring  
-- 💻 Python Developer: Automation & Bots  
+- 💻 Python Developer 
 ---
 
 ## 🛠️ Tech & Tools
@@ -26,15 +24,14 @@
 | **ML / AI** | Learning Machine Learning (TensorFlow, Scikit-Learn) |
 | **Security** | Pentesting basics |
 <p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ6MGhpcWl3emVuajh5NnpwbTlzajJwZng5NWwwNHJ4ejBvcW4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdrSWXS2JovQjS17fq/giphy.gif" width="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ6MGhpcWl3emVuajh5NnpwbTlzajJwZng5NWwwNHJ4ejBvcW4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdrSWXS2JovQjS17fq/giphy.gif" width="350" />
 </p>
 ## ✉️ Contact Me
 📧 alifarisat04@gmail.com  
-
+🔗 [LinkedIn](https://www.linkedin.com/in/ali_farsiat1/)
 ---
 
 ## ⚡ Fun Stats
-![Profile](https://avatars.githubusercontent.com/u/583231?v=4)  
 
 - 🧠 INTJ: Strategic & analytical  
 - 💬 Fluent: English | Persian | Arabic  
