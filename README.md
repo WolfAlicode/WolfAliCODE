@@ -1,7 +1,12 @@
+<p float="left">
+  <img src="https://komarev.com/ghpvc/?username=alifarisat&color=blue" alt="Profile Views" />
+</p>
+
 # 👋 Hi, I'm **Ali Farisat**
 
-![Coding GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
-
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150" />
+</p>
 **Computer Engineering Student | Network & Security | Python & Machine Learning**
 
 ---
@@ -11,8 +16,6 @@
 - 🌐 Networking: **Cisco & MikroTik**  
 - 🤖 Machine Learning: just started exploring  
 - 💻 Python Developer: Automation & Bots  
-- 🔒 Cybersecurity enthusiast  
-
 ---
 
 ## 🛠️ Tech & Tools
@@ -22,6 +25,11 @@
 | **Networking** | Cisco, MikroTik |
 | **ML / AI** | Learning Machine Learning (TensorFlow, Scikit-Learn) |
 | **Security** | Pentesting basics |
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ6MGhpcWl3emVuajh5NnpwbTlzajJwZng5NWwwNHJ4ejBvcW4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdrSWXS2JovQjS17fq/giphy.gif" width="150" />
+</p>
+## ✉️ Contact Me
+📧 alifarisat04@gmail.com  
 
 ---
 
@@ -31,9 +39,6 @@
 - 🧠 INTJ: Strategic & analytical  
 - 💬 Fluent: English | Persian | Arabic  
 - 💰 Focused on tech & financial growth  
-
-## ✉️ Contact Me
-📧 alifarisat04@gmail.com  
 ---
 
 ## ✨ Quote
@@ -41,7 +46,3 @@
 
 ![Footer GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-## ⚡ Fun GIFs
-![Networking GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-![Python GIF](https://media.giphy.com/media/26xBwdIuRJiAi1krs/giphy.gif)  
-![AI GIF](https://media.giphy.com/media/3o7TKrZKKjrf4qvB8k/giphy.gif)
