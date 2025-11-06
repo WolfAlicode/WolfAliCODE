@@ -17,11 +17,15 @@
 </td>
 </tr>
 </table>
+
+---
+
 ## 💡 About Me
 - 🎓 3rd-year Computer Engineering student  
 - 🌐 Networking: **Cisco & MikroTik**  
 - 🤖 Machine Learning: just started exploring  
 - 💻 Python Developer 
+
 ---
 
 <table>
@@ -44,6 +48,9 @@
 </td>
 </tr>
 </table>
+
+---
+
 ## ✉️ Contact Me
 📧 alifarisat04@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ali_farsiat1/)
