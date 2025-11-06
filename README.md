@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=alifarisat&color=blue" alt="Profile Views" />
 </p>
 
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<table>
+<table border="0">
 <tr>
 <td>
 
