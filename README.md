@@ -38,7 +38,7 @@
 | **Programming** | Python |
 | **Networking** | Cisco, MikroTik |
 | **ML / AI** | Learning Machine Learning (TensorFlow, Scikit-Learn) |
-| **Security** | Pentesting basics |
+| **Security** | Network Security Basics |
 
 </td>
 <td align="right">
