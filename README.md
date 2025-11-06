@@ -12,7 +12,7 @@
 </td>
 <td align="right">
 
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="230" />
 
 </td>
 </tr>
